@@ -5,7 +5,7 @@
 - Backend: Node.js + Express.js
 - Database: MongoDB
 
-##Prerequisites
+## Prerequisites
 Before running this application, make sure you have:
 
 - Node.js 
